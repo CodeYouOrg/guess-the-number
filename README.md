@@ -57,4 +57,4 @@ If you get stuck, write psuedocode and break the game's functionality and logic 
 
 ### Submitting Your Work
 
-After completing the assignment, make sure to commit your changes and push them back to your own repository and turn in the GitHub link in Google Classroom.
+After completing the assignment, make sure to commit your changes and push them back to your own repository and turn in the GitHub link in OpenClass.
