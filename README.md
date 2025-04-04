@@ -1,4 +1,4 @@
-# Introduction to JS: Guess the Number
+# Guess the Number
 
 ## Overview
 In this assignment, you will implement the functionality of the "Guess the Number" game. The player will have 3 attempts to guess the randomly generated number within the range of 1 through 10. If you have completed all the previous assignments, you should be able to implement most of the functionality.
